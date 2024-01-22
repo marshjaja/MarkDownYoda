@@ -1,11 +1,36 @@
 // function to generate markdown for README
+
+function capitalizeTitle(string) {
+	return string.charAt(0).toUpperCase() + string.slice(1);
+}
 function generateMarkdown(data) {
 	return `
-  # ${data.title}
+  # ${capitalizeTitle(data.title)}
 
-  ## Description
+  # Description
   ${data.description}
   
+  ## Table of Contents
+- [Installation](#installation)
+- [Test](#test)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+
+# Installation
+${data.installation}
+
+# Tests
+${data.test}
+
+# Usage
+${data.usage}
+
+# Contributing
+${data.contributing}
+
+# License
+${data.license}
 
 `;
 }
