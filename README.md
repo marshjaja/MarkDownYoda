@@ -1,5 +1,5 @@
 
-<a id="Top"></a>
+<a name="readme-top"></a>
 
 <div align="center">
 
@@ -33,13 +33,13 @@
 
 
 # 🏗️BUILT WITH
-
-<div align="center">
   
-![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</div>
+* ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)<br>
+* ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br>
+* ![Node](https://img.shields.io/badge/node.js-448B43?style=for-the-badge&logo=node.js&logoColor=white) <br>
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
+
+
 
 ---
 
@@ -58,11 +58,13 @@
   - [Contact](#contact)
   - [License](#license)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
 # 🖇️PROJECT DEMO
 https://www.loom.com/share/421e988e5cdb418f9cf580b62d9c949c
+
 
 ---
 
@@ -77,6 +79,8 @@ These high-quality READMEs should include essential information such as the proj
 # 🗣️USER STORY
 - As a developer, I want a README generator so that I can quickly create a professional README for a new project
 <br>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -104,6 +108,8 @@ When a user is prompted for information about the application repository then a 
 - When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
 - When a user clicks on the links in the Table of Contents then they are taken to the corresponding section of the README
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ---
 
 # ❗GETTING STARTED
@@ -113,6 +119,7 @@ When a user is prompted for information about the application repository then a 
    git clone https://github.com/your_username_/Project-Name.git
    ```
 2. Navigate to the project directory: cd repository name
+
 
 ---
 
@@ -126,6 +133,8 @@ When a user is prompted for information about the application repository then a 
    node index.js
    ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ---
 
 # ▶️USAGE
@@ -135,6 +144,7 @@ This project is designed for easily creating professional README files for your 
 |----------|
 | <img width="600" alt="Screenshot 2024-01-23 at 14 03 55" src="https://github.com/marshjaja/MarkDownYoda/assets/114920895/cf5f81c9-ce3f-4d0c-9d0e-4975b340f171">|
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -146,7 +156,8 @@ This project is designed for easily creating professional README files for your 
 - [x] Javascript <br/>
 
 <br/>
-Other Tools and Libraries: <br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>Other Tools and Libraries: <br/>
 
 ---
 
@@ -160,11 +171,14 @@ To contribute, follow these steps:
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 ---
 
 ## 👥Contributors
 
 [marshjaja](https://github.com/marshjaja)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -185,6 +199,8 @@ For more information or inquiries about the project, feel free to contact me:
 On GitHub: [GitHub: marshjaja](https://github.com/marshjaja)
 Via Email: test@testing.com
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 --- 
 
 ## 🪪LICENSE
@@ -193,6 +209,6 @@ Copyright © 2024 Marcia Mijnhijmer ([@marshjaja](https://github.com/marshjaja))
 
 ---
 
-[**Return**](#Top)
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 ---
