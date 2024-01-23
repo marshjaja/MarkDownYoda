@@ -32,7 +32,7 @@ ${data.description}
 ${technologyBadges}
 
 ## Table of Contents
-- [Top](#top)git
+- [Top](#top)
 - [Installation](#installation)
 - [Test](#test)
 - [Usage](#usage)
