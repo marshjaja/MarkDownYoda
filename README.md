@@ -3,12 +3,29 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/github/last-commit/marshjaja/MarkDownYoda?style=for-the-badge&color=efc8d4" alt="Last Commit" />
+<img src="https://img.shields.io/github/license/marshjaja/MarkDownYoda?style=for-the-badge&color=efc8d4" alt="GitHub license" />
+<img src="https://img.shields.io/github/commit-activity/m/marshjaja/MarkDownYoda?style=for-the-badge&color=efc8d4" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/languages/top/marshjaja/MarkDownYoda?style=for-the-badge&color=efc8d4" alt="GitHub top language" />
+<br>
+ <a href="https://github.com/marshjaja/MarkDownYoda">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="100" height="100" /> 
+ </a>
 
 # 👩🏾‍💻 MarkDownYoda the Professional README.md Generator 👩🏾‍💻
 
 #### ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) <br> Homework Module 11
 ![GitHub contributors](https://img.shields.io/github/contributors/marshjaja/MarkDownYoda?style=for-the-badge&logoColor=white)
+<p align="center">
+    <a href="https://github.com/marshjaja/MarkDownYoda"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.loom.com/share/421e988e5cdb418f9cf580b62d9c949c">View Demo</a>
+    ·
+    <a href="https://github.com/marshjaja/MarkDownYoda/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/marshjaja/MarkDownYoda/issues">Request Feature</a>
+  </p>
 </div>
 
 ---
@@ -22,11 +39,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<img src="https://img.shields.io/github/last-commit/marshjaja/MarkDownYoda?style=for-the-badge&color=efc8d4" alt="Last Commit" />
-<img src="https://img.shields.io/github/license/marshjaja/MarkDownYoda?style=for-the-badge&color=efc8d4" alt="GitHub license" />
-<img src="https://img.shields.io/github/commit-activity/m/marshjaja/MarkDownYoda?style=for-the-badge&color=efc8d4" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/languages/top/marshjaja/MarkDownYoda?style=for-the-badge&color=efc8d4" alt="GitHub top language" />
 </div>
 
 ---
@@ -96,14 +108,23 @@ When a user is prompted for information about the application repository then a 
 
 # ❗GETTING STARTED
 
-1. Clone the repository: git clone <repository-url>
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
 2. Navigate to the project directory: cd repository name
 
 ---
 
 # ⚙️INSTALLATION
-1. Install dependencies: npm i / npm install, yarn add
+1. Install NPM packages
+   ```sh
+   npm install
+   ```
 2. Run  node index or node index.js
+   ```sh
+   node index.js
+   ```
 
 ---
 
@@ -133,12 +154,12 @@ Other Tools and Libraries: <br/>
 
 <h3>We welcome contributions from the community!</h3> 
 To contribute, follow these steps:
-1. Fork the repository. <br>
-2. Create a new branch: git checkout -b my-new-feature <br>
-3. Make your changes and commit them: git commit -am 'Add some feature'<br>
-4. Push the branch: git push origin my-new-feature <br>
-5. Submit a pull request detailing your changes. <br>
 
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 ---
 
 ## 👥Contributors
